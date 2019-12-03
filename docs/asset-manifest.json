@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/morphoto-staging/static/css/main.97ca25ad.chunk.css",
-    "main.js": "/morphoto-staging/static/js/main.1cf2727f.chunk.js",
-    "main.js.map": "/morphoto-staging/static/js/main.1cf2727f.chunk.js.map",
+    "main.js": "/morphoto-staging/static/js/main.12f18bd4.chunk.js",
+    "main.js.map": "/morphoto-staging/static/js/main.12f18bd4.chunk.js.map",
     "runtime-main.js": "/morphoto-staging/static/js/runtime-main.a1fca565.js",
     "runtime-main.js.map": "/morphoto-staging/static/js/runtime-main.a1fca565.js.map",
     "static/css/2.c23e7dab.chunk.css": "/morphoto-staging/static/css/2.c23e7dab.chunk.css",
-    "static/js/2.6ab91120.chunk.js": "/morphoto-staging/static/js/2.6ab91120.chunk.js",
-    "static/js/2.6ab91120.chunk.js.map": "/morphoto-staging/static/js/2.6ab91120.chunk.js.map",
+    "static/js/2.823dd416.chunk.js": "/morphoto-staging/static/js/2.823dd416.chunk.js",
+    "static/js/2.823dd416.chunk.js.map": "/morphoto-staging/static/js/2.823dd416.chunk.js.map",
     "index.html": "/morphoto-staging/index.html",
-    "precache-manifest.8d3431a15bd3f91163381d34d200c247.js": "/morphoto-staging/precache-manifest.8d3431a15bd3f91163381d34d200c247.js",
+    "precache-manifest.71bb8b2e043f907b4f0226b0a3a88271.js": "/morphoto-staging/precache-manifest.71bb8b2e043f907b4f0226b0a3a88271.js",
     "service-worker.js": "/morphoto-staging/service-worker.js",
     "static/css/2.c23e7dab.chunk.css.map": "/morphoto-staging/static/css/2.c23e7dab.chunk.css.map",
     "static/css/main.97ca25ad.chunk.css.map": "/morphoto-staging/static/css/main.97ca25ad.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.a1fca565.js",
     "static/css/2.c23e7dab.chunk.css",
-    "static/js/2.6ab91120.chunk.js",
+    "static/js/2.823dd416.chunk.js",
     "static/css/main.97ca25ad.chunk.css",
-    "static/js/main.1cf2727f.chunk.js"
+    "static/js/main.12f18bd4.chunk.js"
   ]
 }
