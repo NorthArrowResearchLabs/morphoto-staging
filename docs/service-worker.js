@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/morphoto-staging/precache-manifest.2537428bbd5fbe4a38e38f24faa727a2.js"
+  "/morphoto-staging/precache-manifest.4a2292af08eb8a7540803f2c8ae8604f.js"
 );
 
 self.addEventListener('message', (event) => {
