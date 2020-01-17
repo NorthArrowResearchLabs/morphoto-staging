@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/morphoto-staging/static/css/main.97ca25ad.chunk.css",
-    "main.js": "/morphoto-staging/static/js/main.955c0af6.chunk.js",
-    "main.js.map": "/morphoto-staging/static/js/main.955c0af6.chunk.js.map",
-    "runtime-main.js": "/morphoto-staging/static/js/runtime-main.0310ef8e.js",
-    "runtime-main.js.map": "/morphoto-staging/static/js/runtime-main.0310ef8e.js.map",
-    "static/css/2.00d9cf76.chunk.css": "/morphoto-staging/static/css/2.00d9cf76.chunk.css",
-    "static/js/2.9b07e176.chunk.js": "/morphoto-staging/static/js/2.9b07e176.chunk.js",
-    "static/js/2.9b07e176.chunk.js.map": "/morphoto-staging/static/js/2.9b07e176.chunk.js.map",
+    "main.js": "/morphoto-staging/static/js/main.b49f6afb.chunk.js",
+    "main.js.map": "/morphoto-staging/static/js/main.b49f6afb.chunk.js.map",
+    "runtime-main.js": "/morphoto-staging/static/js/runtime-main.8e92e8a0.js",
+    "runtime-main.js.map": "/morphoto-staging/static/js/runtime-main.8e92e8a0.js.map",
+    "static/css/2.979e69c5.chunk.css": "/morphoto-staging/static/css/2.979e69c5.chunk.css",
+    "static/js/2.9717a644.chunk.js": "/morphoto-staging/static/js/2.9717a644.chunk.js",
+    "static/js/2.9717a644.chunk.js.map": "/morphoto-staging/static/js/2.9717a644.chunk.js.map",
     "index.html": "/morphoto-staging/index.html",
-    "precache-manifest.cfb52badb5354d82549c294d0270cecd.js": "/morphoto-staging/precache-manifest.cfb52badb5354d82549c294d0270cecd.js",
+    "precache-manifest.fc7ec259cac7ef45508944a03931d53a.js": "/morphoto-staging/precache-manifest.fc7ec259cac7ef45508944a03931d53a.js",
     "service-worker.js": "/morphoto-staging/service-worker.js",
-    "static/css/2.00d9cf76.chunk.css.map": "/morphoto-staging/static/css/2.00d9cf76.chunk.css.map",
+    "static/css/2.979e69c5.chunk.css.map": "/morphoto-staging/static/css/2.979e69c5.chunk.css.map",
     "static/css/main.97ca25ad.chunk.css.map": "/morphoto-staging/static/css/main.97ca25ad.chunk.css.map",
     "static/media/index.css": "/morphoto-staging/static/media/roboto-latin-900italic.bc833e72.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.0310ef8e.js",
-    "static/css/2.00d9cf76.chunk.css",
-    "static/js/2.9b07e176.chunk.js",
+    "static/js/runtime-main.8e92e8a0.js",
+    "static/css/2.979e69c5.chunk.css",
+    "static/js/2.9717a644.chunk.js",
     "static/css/main.97ca25ad.chunk.css",
-    "static/js/main.955c0af6.chunk.js"
+    "static/js/main.b49f6afb.chunk.js"
   ]
 }
